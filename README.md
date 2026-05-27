@@ -1,6 +1,14 @@
+# Bonjour, I'm Sebi
+
+**student** | **coder** | **gamer** | **lover**
+
+## Apps/Brews I've developed
+
+- 🎵 **[appldl](https://github.com/sebidc/appldl)** - forked spotdl but apple music.
+- 💻 **[check-installs-tui](https://github.com/sebidc/check-installs-tui)** - check brew, npm, pnpm, yarn, etc. in one TUI.
+
+## Connect
+
 [![Email](https://img.shields.io/badge/email-sebastianguile.dc%40icloud.com-ffffff.svg?style=flat&logo=mail&logoColor=white&labelColor=3C3744)](mailto:sebastianguile.dc@icloud.com)
 [![Website](https://img.shields.io/badge/other_socials-sebisocials.framer.ai-ffffff.svg?style=flat&logo=&logoColor=white&labelColor=3C3744)](https://sebisocials.framer.ai/)
 
-student, coder, gamer, and a lover.
-
-currently experimenting with openclaw, claude-code, and other ai apps.
